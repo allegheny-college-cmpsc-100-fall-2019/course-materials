@@ -8,8 +8,9 @@ This repository hosts materials which describe the structure and operation this 
 |28 August   |Wednesday      |Disorientation         |               |              |         |
 |30 August   |Friday         |Computers & Computation|               |              |         |
 ### Week 1
-|:----------:|:-------------:|:---------------------:|:--------------------------:|:------------:|:----------------------------------------------:|
-|2 September |Monday         |Computers & Computation|_JSS_: 1.1, 1.2; [Wing - Computational Thinking](readings/Wing - Computational Thinking.pdf)|            |Yes, we labor on Labor Day; but, there's no lab!|
+|            |               |                       |                                                                                            |              |                                                             |
+|:----------:|:-------------:|:---------------------:|:------------------------------------------------------------------------------------------:|:------------:|:-----------------------------------------------------------:|
+|2 September |Monday         |Computers & Computation|_JSS_: 1.1, 1.2; [Wing - Computational Thinking](readings/Wing - Computational Thinking.pdf)|              |Yes, we labor on Labor Day; but not too much: there's no lab!|
 ### Week 1
 ### Week 2
 ### Week 3
