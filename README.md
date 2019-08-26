@@ -6,12 +6,13 @@ This repository hosts materials which describe the structure and operation this 
 |**Date**    |**Day of Week**|**Topic**              |**Reading**    |**Assignment**|**Notes**|
 |:----------:|:-------------:|:---------------------:|:-------------:|:------------:|:-------:|
 |28 August   |Wednesday      |Disorientation         |               |              |         |
-|30 August   |Friday         |Computers & Computation|               |              |         |
+|30 August   |Friday         |Practical Session #1   |               |              |         |
 ### Week 1
 |**Date**    |**Day of Week**|**Topic**              |**Reading**    |**Assignment**|**Notes**|
 |:----------:|:-------------:|:---------------------:|:------------------------------------------------------------------------------------------:|:------------:|:-----------------------------------------------------------:|
 |2 September |Monday         |Computers & Computation|_JSS_: 1.1, 1.2; [Wing - Computational Thinking](Readings/Wing%20-%20Computational%20Thinking.pdf)|              |Yes, we labor on Labor Day; but not too much: there's no lab!|
-### Week 1
+|4 September |Wednesday      |Computers & Computation|_JSS_: 1.1, 1.2, 1.4, 1.6; [Wing - Computational Thinking](Readings/Wing%20-%20Computational%20Thinking.pdf)|              |          |
+|6 September |Friday         |Computers & Computation|          |          |          |
 ### Week 2
 ### Week 3
 ### Week 4
