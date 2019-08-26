@@ -10,7 +10,7 @@ This repository hosts materials which describe the structure and operation this 
 ### Week 1
 |**Date**    |**Day of Week**|**Topic**              |**Reading**    |**Assignment**|**Notes**|
 |:----------:|:-------------:|:---------------------:|:------------------------------------------------------------------------------------------:|:------------:|:-----------------------------------------------------------:|
-|2 September |Monday         |Computers & Computation|_JSS_: 1.1, 1.2; [Wing - Computational Thinking](blob/master/Readings/Wing%20-%20Computational%20Thinking.pdf)|              |Yes, we labor on Labor Day; but not too much: there's no lab!|
+|2 September |Monday         |Computers & Computation|_JSS_: 1.1, 1.2; [Wing - Computational Thinking](Readings/Wing%20-%20Computational%20Thinking.pdf)|              |Yes, we labor on Labor Day; but not too much: there's no lab!|
 ### Week 1
 ### Week 2
 ### Week 3
