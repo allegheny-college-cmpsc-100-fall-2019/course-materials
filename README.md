@@ -1,5 +1,5 @@
 # CMPSC 100 - 03 Course Materials
-# Computational Expression, Allegheny College, Fall 2019
+## Computational Expression, Allegheny College, Fall 2019
 This repository hosts materials which describe the structure and operation this section of Computational Expression. Check this space early and often for updates to the syllabus, schedule, or other course governance.
 ## Resources
 * Syllabus
@@ -9,10 +9,14 @@ This repository hosts materials which describe the structure and operation this 
 * (Dis)orientation
 #### 30 August
 * Practical Session #1
-##### Docker
+##### Readings
+###### Docker
 * Depending on your computer's operating system, familiarize yourself with:
    * [Docker for Windows](https://docs.docker.com/docker-for-windows/)
    * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+###### GitHub
+* In general, bookmark the [Github Guides]. In specific for this practical, pay attention to:
+    * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 ### Week 1 - Computers and computation
 #### 2 September
 * Yes, we labor on Labor Day
