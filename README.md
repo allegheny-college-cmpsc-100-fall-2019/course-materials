@@ -4,6 +4,8 @@ This repository hosts materials which describe the structure and operation this 
 * [Syllabus](Syllabus/CMPSC%20100%20-%20Syllabus.pdf)
 * [Course schedule](https://docs.google.com/spreadsheets/d/1Cr8kZ5UySw0xhsUFBy_GY4ADZbqpMUgYo-SU2d-zQtE/edit?usp=sharing)
 * [Course Slack channel](https://cmpsc100fall2019.slack.com)
+* [Faculty page](https://www.cs.allegheny.edu/sites/dluman/)
+    * Book student hours, find helpful links for the course
 ## Course Format
 |Day(s) of Week   |Time            |Location |Purpose of class session |
 |-----------------|----------------|---------|-------------------------|
