@@ -9,6 +9,5 @@ This repository hosts materials which describe the structure and operation this 
 |Monday, Wednesday|11:00 - 11:50 AM|Alden 109|Discussion and group work|
 |Monday           |2:30 - 4:20 PM  |Alden 109|Lab sessions             |
 |Friday           |11:00 - 11:50 AM|Alden 109|Practical sessions       |
-|
 ## Notes
 * _JSS_ refers to the textbook, _Java Software Solutions_, 9<sup>th</sup> ed.
